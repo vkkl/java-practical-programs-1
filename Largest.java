@@ -10,6 +10,7 @@ public static void main(String a[])
  else
  {
  System.out.println("x is not greater than y");
+ System.out.println("fuck you mahabal");
  }
 }
 }
